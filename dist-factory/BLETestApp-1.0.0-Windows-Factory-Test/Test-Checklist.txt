@@ -1,0 +1,30 @@
+========================================
+    Test Checklist
+========================================
+
+Test Items:
+[ ] Program starts successfully
+[ ] Can scan for BLE devices
+[ ] Connects to device automatically
+[ ] Sends commands every 10 seconds
+[ ] Receives ACK responses
+[ ] Connection stable for 30+ minutes
+[ ] Can reconnect after disconnect
+
+Test Environment:
+-----------------
+Windows Version: ____________
+Bluetooth Type: _____________
+Device Model: _______________
+Firmware Ver: _______________
+Test Date: __________________
+Tester: _____________________
+
+Result: [ ] PASS  [ ] FAIL
+
+Notes:
+_____________________________
+_____________________________
+_____________________________
+
+========================================
